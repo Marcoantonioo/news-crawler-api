@@ -5,4 +5,4 @@
 |endpoint|description|
 |--------|-----------|
 |`/news/tecnologia`|Return a array with tech news|
-|`/news/carro`|Return a array with car news|
+|`/news/carros`|Return a array with car news|
